@@ -22,6 +22,7 @@
 		B8EED1C31DB79C3800B9DAFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B8EED1C61DB79C3800B9DAFE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B8EED1C81DB79C3800B9DAFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8EED1CE1DB79C4800B9DAFE /* HomeWork.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HomeWork.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		B8EED1B01DB79C3800B9DAFE = {
 			isa = PBXGroup;
 			children = (
+				B8EED1CE1DB79C4800B9DAFE /* HomeWork.playground */,
 				B8EED1BB1DB79C3800B9DAFE /* CodeHomeWork */,
 				B8EED1BA1DB79C3800B9DAFE /* Products */,
 			);
